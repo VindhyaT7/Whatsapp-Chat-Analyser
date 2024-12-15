@@ -14,6 +14,7 @@ Word Cloud: Visual representation of the most frequently used words.
 Emoji Analysis: Count and visualize the most used emojis in the chat.
 
 ** Sample Visualizations**
+
 ![image](https://github.com/user-attachments/assets/b201b4d5-acf5-466e-9baf-7e91b5d854a3)
 
 ![image](https://github.com/user-attachments/assets/1d297559-7007-4160-9b63-19643c8dcc27)
